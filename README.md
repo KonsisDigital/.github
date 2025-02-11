@@ -1,0 +1,2 @@
+# .github
+Konsis Digital
